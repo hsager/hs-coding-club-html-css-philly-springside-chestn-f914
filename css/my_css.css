@@ -1,4 +1,10 @@
 /*Write your custom CSS here!!!*/
+.middle {
+  text-align: center;
+}
 
-
-
+#camp-pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
